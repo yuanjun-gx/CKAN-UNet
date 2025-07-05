@@ -1,4 +1,5 @@
 # A Lightweight Dual Path Kolmogorov-Arnold Convolution Network for Medical Optical Image Segmentation
+A lightweight and precise dual-path U-Net (KAU-Net) is proposed for the medical optical image segmentation.
 # skin lesion segmentation
 We take skin disease segmentation as an example to introduce the use of our model.
 # Data preparation
