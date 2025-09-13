@@ -8,3 +8,4 @@ python data_preprocess.py
 # Train and Test
 ## Our method is easy to train and test, just need to run "train.py".
 python train.py
+Since GitHub supports uploads of less than 25MB, please contact us if you require a pre-trained model.
